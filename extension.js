@@ -69,7 +69,7 @@ function _extensions() {
 // }
 
 
-var MenuButton = GObject.registerClass(class FedoraMenu_MenuButton 
+var MenuButton = GObject.registerClass(class QuickMenu_MenuButton 
 	extends PanelMenu.Button {
     _init() {
 		super._init(0.0, "MenuButton");
