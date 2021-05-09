@@ -4,6 +4,8 @@
 
 A menu similar to Apple menu found on macOS. This is an extension for the GNOME Desktop.
 
+![image](https://user-images.githubusercontent.com/76500838/117557009-730dbc00-b034-11eb-830f-8060052a4109.png)
+
 xkill required for Force Quit App, gnome-extensions-app required for Extensions.
 
 #### Install by using GNU make:
