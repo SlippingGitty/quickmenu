@@ -1,24 +1,26 @@
-# fedoramenu
-Menu similar to Apple macOS menu for the GNOME Desktop
-fork of Big Sur Menu by fausto
-Compatible with and tested on GNOME 40. Should work on older versions.
-join the Discord for the latest news and releases: https://discord.gg/kNa4CHJX
+# Quick Menu
+
+###### This is a fork of fedoramenu (Fork of Big Sur Menu by fausto) that scrubs references of Fedora by replacing the icon with the GNOME logo.
+
+A menu similar to Apple menu found on macOS. This is an extension for the GNOME Desktop.
 
 xkill required for Force Quit App, gnome-extensions-app required for Extensions.
 
-Grab the latest release and unzip to /.local/share/gnome-shell/extensions
+#### Install by using GNU make:
 
-**or**
+```
+git clone https://github.com/SlippingGitty/quickmenu.git
+cd quickmenu
+make install
+```
+___
 
-use GNU make:
+Credits:
 
-    make install
-=======
-
-Credits
+tofutech - fedoramenu
 
 kaansenol5, ShrirajHegde, AndrewZaech - help with development
 
 fausto, Frippery Applications Menu - Original Code
 
-This project is not officially connected with Fedora, Red Hat, or any associated entity.
+The upstream project is not officially connected with Fedora, Red Hat, or any associated entity. 
