@@ -1,6 +1,6 @@
 # Quick Menu
 
-###### This is a fork of fedoramenu (Fork of Big Sur Menu by fausto) that scrubs references of Fedora by replacing the icon with the GNOME logo.
+###### This is a fork of fedoramenu (which is a fork of Big Sur Menu by fausto) that scrubs references of Fedora by replacing the icon with the GNOME logo.
 
 QuickMenu is a panel applet similar to the Apple menu found on macOS. This is an extension for the GNOME Desktop.
 
