@@ -12,6 +12,10 @@ QuickMenu is a panel applet similar to the Apple menu found on macOS. This is an
 *  `gnome-extensions-app` required for Extensions.
 
 # Install by:
+ 
+[<img src="https://github.com/andyholmes/gnome-shell-extensions-badge/raw/master/get-it-on-ego.png" width=300>](https://extensions.gnome.org/extension/4266/quick-menu/)
+
+#### or
 
 ```
 git clone https://github.com/SlippingGitty/quickmenu.git
